@@ -3,4 +3,13 @@
   <img align=center alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thornjad&include_all_commits=true&show_icons=true&theme=transparent&bg_color=fefbf2&rank_icon=percentile&title_color=655370&text_color=383b45&icon_color=51a3a3&hide=contribs&show=prs_merged,prs_merged_percentage" />
 </p>
 
-Check out [my website](https://jmthornton.net), including [my small collection of blog posts](https://blog.jmthornton.net).
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/thornjad/count.svg" />
+</p>
+
+## More links
+
+- [my website](https://jmthornton.net)
+- [my small blog](https://blog.jmthornton.net)
+- [LinkedIn](https://www.linkedin.com/in/jademichael)
