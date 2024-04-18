@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"> 
-  Visitor count<br>
+  Profile visitor count<br>
   <img src="https://profile-counter.glitch.me/thornjad/count.svg" />
 </p>
 
