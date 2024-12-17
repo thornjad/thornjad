@@ -7,10 +7,12 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thornjad&border_radius=4&exclude_days=Sun%2CSat&background=FEFBF2&stroke=51A3A3&sideLabels=383B45&excludeDaysLabel=829293&currStreakLabel=655370&ring=A094A2&fire=A094A2" alt="GitHub Streak" />
 </p>
 
+<!--
 <p align="center"> 
   Profile visitor count<br>
   <img src="https://profile-counter.glitch.me/thornjad/count.svg" />
 </p>
+-->
 
 ## More links
 
