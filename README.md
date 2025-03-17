@@ -3,9 +3,11 @@
   <img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thornjad&include_all_commits=true&show_icons=true&theme=transparent&bg_color=fefbf2&rank_icon=percentile&title_color=655370&text_color=383b45&icon_color=51a3a3&hide=contribs&show=prs_merged,prs_merged_percentage" />
 </p>
 
+<!--
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thornjad&border_radius=4&exclude_days=Sun%2CSat&background=FEFBF2&stroke=51A3A3&sideLabels=383B45&excludeDaysLabel=829293&currStreakLabel=655370&ring=A094A2&fire=A094A2" alt="GitHub Streak" />
 </p>
+-->
 
 <!--
 <p align="center"> 
