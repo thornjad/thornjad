@@ -1,0 +1,24 @@
+name: Update Weather
+
+on:
+  push:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update-weather:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v3
+      with:
+        python-version: '3.x'
+    - name: Get Weather
+      env:
+        TEMPEST_STATION: ${{ secrets.TEMPEST_STATION }}
+        TEMPEST_PUT: ${{ secrets.TEMPEST_PUT }}
+      run: python .github/update-weather.py
+    - name: Configure Git
+      run: git config --global user.name "Jade Michael Thornton" && git config --global user.email "jade@jmthornton.net"
+    - name: Commit Changes
+      run: git add README.md && git commit -m "update weather" && git push || echo "No changes"
