@@ -1,22 +1,8 @@
+# Hello!
 
-<!--<p align="center">
-  <img align="center" alt="My top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=thornjad&size_weight=0.5&count_weight=0.5&hide=roff,html,css,tex,m4,xslt,makefile,hcl,batchfile,jupyter%20notebook,dockerfile,applescript,objective-c,c%23,c%2B%2B,postscript,scss,csharp&layout=compact&langs_count=14&show_icons=true&theme=transparent&bg_color=fefbf2&title_color=655370&text_color=383b45" />
-  <img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thornjad&include_all_commits=true&show_icons=true&theme=transparent&bg_color=fefbf2&rank_icon=percentile&title_color=655370&text_color=383b45&icon_color=51a3a3&hide=contribs&show=prs_merged,prs_merged_percentage" />
-</p>-->
+You can call me Jade or Michael. I'm a software engineer, engineering manager, and weather enthusiast living in the Twin Cities Minnesota, where it's ​72°F and ☁️ Cloudy​ right now. I work at [DroneDeploy](https://dronedeploy.com), and I know some things about some software, and a lot about taking care of house rabbits.
 
-
-<!--
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thornjad&border_radius=4&exclude_days=Sun%2CSat&background=FEFBF2&stroke=51A3A3&sideLabels=383B45&excludeDaysLabel=829293&currStreakLabel=655370&ring=A094A2&fire=A094A2" alt="GitHub Streak" />
-</p>
--->
-
-<!--
-<p align="center"> 
-  Profile visitor count<br>
-  <img src="https://profile-counter.glitch.me/thornjad/count.svg" />
-</p>
--->
+If you find what I make useful, [buy me a coffee!](https://buymeacoffee.com/jademichaelthornton)
 
 ## More links
 
