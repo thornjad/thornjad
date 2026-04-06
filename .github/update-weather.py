@@ -42,10 +42,19 @@ conditions = {
     "Light Sleet":      "lightly sleeting",
     "Moderate Sleet":   "moderately sleeting",
     "Heavy Sleet":      "heavily sleeting",
-    "Thunderstorm":     "thunderstorming",
-    "Fog":              "foggy",
-    "Windy":            "windy",
-    "Light Wind":       "a little windy",
+    "Thunderstorm":           "thunderstorming",
+    "Thunderstorms Possible": "possibly stormy",
+    "Thunderstorms Likely":   "probably stormy",
+    "Snow":                   "snowing",
+    "Snow Possible":          "possibly snowy",
+    "Snow Likely":            "probably snowy",
+    "Rain Possible":          "possibly rainy",
+    "Rain Likely":            "probably rainy",
+    "Wintry Mix Possible":    "possibly wintry",
+    "Wintry Mix Likely":      "probably wintry",
+    "Fog":                    "foggy",
+    "Windy":                  "windy",
+    "Light Wind":             "a little windy",
 }
 
 url = f'https://swd.weatherflow.com/swd/rest/better_forecast?station_id=' + os.environ['TEMPEST_STATION'] + '&token=' + os.environ['TEMPEST_PUT'] + '&units_temp=f'
